@@ -1,0 +1,25 @@
+{
+  "name": "genxops-car-dealer-plugins",
+  "version": "1.0.0",
+  "description": "Free Cowork plugins for independent car dealers. Skills for VDP writing, cold lead reactivation, and objection handling. Built by Gen X Ops.",
+  "owner": {
+    "name": "Gen X Ops",
+    "email": "totallygenx1@gmail.com",
+    "url": "https://totallygenx.net"
+  },
+  "plugins": [
+    {
+      "name": "dealer-toolkit",
+      "description": "Operational skills for independent car dealers. VDP writer, cold lead reviver, and objection handler. Generates compliant, dealer-ready copy with SMS opt-out language, no APR quotes, no guaranteed-approval wording, and no competitor names.",
+      "version": "1.0.0",
+      "source": "./plugins/dealer-toolkit",
+      "category": "sales",
+      "tags": ["automotive", "car-dealer", "dealer", "independent-dealer", "vdp", "lead-response", "objection-handling", "sales"],
+      "author": {
+        "name": "Gen X Ops",
+        "email": "totallygenx1@gmail.com",
+        "url": "https://totallygenx.net"
+      }
+    }
+  ]
+}

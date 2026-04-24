@@ -1,0 +1,22 @@
+{
+  "name": "dealer-toolkit",
+  "version": "1.0.0",
+  "description": "Operational skills for independent car dealers. Write VDPs, revive cold leads, and handle objections with compliant, dealer-ready copy.",
+  "author": {
+    "name": "Gen X Ops",
+    "email": "totallygenx1@gmail.com",
+    "url": "https://totallygenx.net"
+  },
+  "homepage": "https://totallygenx.net",
+  "repository": "https://github.com/Gen-X-Ops/car-dealer-cowork-plugin",
+  "license": "MIT",
+  "keywords": [
+    "automotive",
+    "car-dealer",
+    "independent-dealer",
+    "vdp",
+    "lead-response",
+    "objection-handling",
+    "sales"
+  ]
+}
